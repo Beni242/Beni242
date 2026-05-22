@@ -40,13 +40,12 @@ benicha = {
 ---
 
 ### 🚀 Projects
-
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🤟 [**SignAphabet2**](https://github.com/Beni242/SignAphabet2) | Real-time ASL alphabet detection & dataset collector | OpenCV, MediaPipe, Python |
 | 🔢 [**Sign-counting**](https://github.com/Beni242/Sign-counting) | Hand sign recognition for counting (0–5) | OpenCV, MediaPipe, Python |
 | ✋ [**HandTrackingProject**](https://github.com/Beni242/HandTrackingProject) | Hand landmark tracking & finger detection | OpenCV, MediaPipe |
-
+| 🏃 [**PoseVideos**](https://github.com/Beni242/PoseVideos) | Pose estimation model on videos | OpenCV, MediaPipe |
 ---
 
 ### 💡 What drives me
