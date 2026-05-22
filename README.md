@@ -22,16 +22,18 @@
 
 I believe technology should **serve people — all people.**
 
-My main obsession is building tools that break barriers, especially for people with disabilities.
-Right now I'm deep into **computer vision** — training models that can understand and generate sign language.
+Not just the ones for whom the world was already designed.
+
+My obsession is building tools that break barriers — especially for people with disabilities.
+Sign language has existed for centuries. Real-time AI that understands it? That's what I'm building.
 
 ```python
 benicha = {
   "degree"    : "Computer Engineering (Licence)",
   "mission"   : "Assistive tech & accessible AI",
-  "currently" : "Sign Language Generator with OpenCV + MediaPipe",
+  "currently" : "Sign Language systems with OpenCV + MediaPipe",
   "stack"     : ["Python", "OpenCV", "MediaPipe", "TensorFlow", "C#", "MySQL", "HTML/CSS"],
-  "believe_in": "Technology that includes everyone"
+  "believe_in": "Technology must be in the service of people — all of them"
 }
 ```
 
@@ -41,16 +43,21 @@ benicha = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🤟 **Sign Language Generator** | Real-time sign language generation & detection | OpenCV, 
+| 🤟 [**SignAphabet2**](https://github.com/Beni242/SignAphabet2) | Real-time ASL alphabet detection & dataset collector | OpenCV, MediaPipe, Python |
+| 🔢 [**Sign-counting**](https://github.com/Beni242/Sign-counting) | Hand sign recognition for counting (0–5) | OpenCV, MediaPipe, Python |
+| ✋ [**HandTrackingProject**](https://github.com/Beni242/HandTrackingProject) | Hand landmark tracking & finger detection | OpenCV, MediaPipe |
 
 ---
 
 ### 💡 What drives me
 
-> *"The best technology is the kind that someone didn't think they needed — until it changed their life."*
+> *"Technology that doesn't include everyone is just half a solution."*
 
-I care about the intersection of **AI** and **human accessibility**.
-Computer vision isn't just cool — it's a tool to give people back their voice, their autonomy, their independence.
+I'm not building cool demos — I'm building toward something real.
+A world where a deaf person walks into any room and has a device that speaks for them.
+Where **computer vision** isn't just a research paper — it's someone's independence.
+
+That's the only kind of tech worth building.
 
 ---
 
