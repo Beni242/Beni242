@@ -1,13 +1,10 @@
 <!-- README.md — Benicha's GitHub Profile -->
-
 <h1 align="center">
   Hey, I'm Benicha 👋
 </h1>
-
 <p align="center">
   <em>Computer Engineering Student · I build tech that makes life easier for everyone</em>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
@@ -20,32 +17,36 @@
 
 ### 🧠 About me
 
-I believe technology should **serve people — all people.**
+I'm a Computer Engineering student who builds things with a reason behind them.
 
-Not just the ones for whom the world was already designed.
+Not just "cool projects" — things that could genuinely change how someone moves through the world. My focus is assistive technology: tools that give people more autonomy, more voice, more independence. Computer vision is my main playground, but I also work across signal processing, embedded systems, and the web — wherever the problem leads.
 
-My obsession is building tools that break barriers — especially for people with disabilities.
-Sign language has existed for centuries. Real-time AI that understands it? That's what I'm building.
+I've  built real-time hand tracking and pose estimation systems, trained classifiers on gesture data. 
+I like when something I build is useful to someone specific.
+
+The goal hasn't changed: technology that includes everyone, or it's not finished yet.
 
 ```python
 benicha = {
-  "degree"    : "Computer Engineering (Licence)",
-  "mission"   : "Assistive tech & accessible AI",
-  "currently" : "Sign Language systems with OpenCV + MediaPipe",
+  "degree"    : "Computer Engineering (Licence) → Master's in Europe",
+  "mission"   : "Build things that actually matter to real people",
+  "currently" : "Assistive tech with computer vision (CV + ML)",
   "stack"     : ["Python", "OpenCV", "MediaPipe", "TensorFlow", "C#", "MySQL", "HTML/CSS"],
-  "believe_in": "Technology must be in the service of people — all of them"
+  "believe_in": "If it doesn't help someone, it's just a demo"
 }
 ```
 
 ---
 
 ### 🚀 Projects
+
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🤟 [**SignAphabet2**](https://github.com/Beni242/SignAphabet2) | Real-time ASL alphabet detection & dataset collector | OpenCV, MediaPipe, Python |
 | 🔢 [**Sign-counting**](https://github.com/Beni242/Sign-counting) | Hand sign recognition for counting (0–5) | OpenCV, MediaPipe, Python |
 | ✋ [**HandTrackingProject**](https://github.com/Beni242/HandTrackingProject) | Hand landmark tracking & finger detection | OpenCV, MediaPipe |
 | 🏃 [**PoseVideos**](https://github.com/Beni242/PoseVideos) | Pose estimation model on videos | OpenCV, MediaPipe |
+| 🚗 [**Car Counter**](https://github.com/Beni242/YoloFirst/tree/main/Project1-%20Car%20Counter) | Real-time vehicle counting on video streams with line-crossing detection | YOLO, OpenCV, Python |
 ---
 
 ### 💡 What drives me
@@ -55,7 +56,6 @@ benicha = {
 I'm not building cool demos — I'm building toward something real.
 A world where a deaf person walks into any room and has a device that speaks for them.
 Where **computer vision** isn't just a research paper — it's someone's independence.
-
 That's the only kind of tech worth building.
 
 ---
